@@ -8,10 +8,6 @@ namespace TurtleDrawingTest
     [TestClass]
     public class BinaryTreeTest
     {
-        [TestMethod]
-        public void IsEmpty()
-        {
-        }
 
         [TestMethod]
         public void InOrder()
