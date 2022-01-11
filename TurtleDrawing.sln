@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurtleDrawing", "TurtleDrawing\TurtleDrawing.csproj", "{35D81B05-EB3F-4C9C-AD32-1A1B47DD4587}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurtleDrawingTest", "TurtleDrawingTest\TurtleDrawingTest.csproj", "{9C808B47-58AB-481A-A052-6A3C6DFEBBCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35D81B05-EB3F-4C9C-AD32-1A1B47DD4587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D81B05-EB3F-4C9C-AD32-1A1B47DD4587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D81B05-EB3F-4C9C-AD32-1A1B47DD4587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D81B05-EB3F-4C9C-AD32-1A1B47DD4587}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C808B47-58AB-481A-A052-6A3C6DFEBBCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C808B47-58AB-481A-A052-6A3C6DFEBBCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C808B47-58AB-481A-A052-6A3C6DFEBBCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C808B47-58AB-481A-A052-6A3C6DFEBBCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28D9F352-F4AA-40EE-BBA3-6CBEFE6726A1}
+	EndGlobalSection
+EndGlobal
